@@ -1,5 +1,8 @@
 ### Hi! I'm Yoná, welcome to my GitHub! 
 
+• 👩🏻‍🔬 I'm a researcher in theoretical physics, I study complex and chaotic systems. <br />
+• 📚 I love learning new things.  <br />
+
 
 <div align="center">
   <a href="https://github.com/yonahirakawa">

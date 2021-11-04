@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Yo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yo-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Yo-R" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/800px-Fortran_logo.svg.png">
 
 
   <img align="right" alt="Yo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905616949684346942/905623492148473876/picasion.com_43481b1c2888362df6bf771af63579a9.gif">

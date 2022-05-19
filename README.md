@@ -4,10 +4,11 @@
 • 📚 I love learning new things.  <br />
 
 
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/yonahirakawa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yonahirakawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonahirakawa&layout=compact&langs_count=7&theme=tokyonight"/>
+     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=yonahirakawa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a>
 </div>
   
  ### Languages and Tools
@@ -24,16 +25,15 @@
   <img align="center" alt="Yo-db" height="30" width="40" src="http://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" /> 
   <img align="center" alt="Yo-adb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" /> 
    
-  
-
-
-  <img align="right" alt="Yo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905616949684346942/905623492148473876/picasion.com_43481b1c2888362df6bf771af63579a9.gif">
 </div>
+  
+  <div align="right">
+   <img align="right" alt="Yo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905616949684346942/905623492148473876/picasion.com_43481b1c2888362df6bf771af63579a9.gif">
+  </div>
+  
   
   ## 
 
-  
-  
   
 <div> 
   <a href = "mailto:hirakawayona@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

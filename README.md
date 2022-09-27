@@ -1,6 +1,7 @@
 ### Hi! I'm Yoná, welcome to my GitHub! 
 
-• 👩🏻‍🔬 I'm a researcher in theoretical physics, I study complex and chaotic systems. <br />
+• 👩🏻‍🔬 I'm a researcher in theoretical physics, I study chaotic systems. <br />
+• 💻 I'm also a data engineer. <br />
 • 📚 I love learning new things.  <br />
 
 

@@ -11,6 +11,19 @@
      <img height="170em" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yonahirakawa&layout=compact&theme=radical" />
   </a>
 </div>
+
+
+### Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<div aling="center">
+   
+  <a href="https://credentials.databricks.com/3c7e2c30-f448-4a38-808c-6d4b34af5b5a">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57949421" height="120" width="120">
+  </a>
+</div>
   
  ### Languages and Tools
 

@@ -15,13 +15,19 @@
 
 ### Badges
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
 
 <div aling="center">
-   
+  <a href="https://www.credly.com/badges/f2d48e0c-869d-466a-a93a-61ee96a3ecb8/public_url">
+    <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="120" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/073b0025-acda-42e3-abaf-fdbf4145ccb8/public_url">
+    <img src="https://images.credly.com/size/110x110/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="120" width="120">
+  </a>
+  <a href="https://www.credly.com/badges/53f82b80-64ff-4ccb-881b-6338a475c1ea/public_url">
+    <img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" height="120" width="120">
+  </a>  
   <a href="https://credentials.databricks.com/3c7e2c30-f448-4a38-808c-6d4b34af5b5a">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57949421" height="120" width="120">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57949421" height="130" width="130">
   </a>
 </div>
   

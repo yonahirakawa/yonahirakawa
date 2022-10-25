@@ -38,18 +38,18 @@
  ### Languages and Tools
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yo-R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Yo-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Yo-R" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Yo-sql" height="40" width="40" src="https://img.icons8.com/color/344/mysql-logo.png" />
   <img align="center" alt="Yo-jup" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Yo-latex" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   <img align="center" alt="Yo-db" height="40" width="40" src="https://img.icons8.com/fluency/344/azure-1.png" /> 
   <img align="center" alt="Yo-df" height="30" width="40" src="http://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" />
-  <img align="center" alt="Yo-db" height="30" width="40" src="http://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" /> 
-  <img align="center" alt="Yo-adb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/databricks_logo_icon_170295.png" /> 
+  <img align="center" alt="Yo-db" height="32" width="40" src="http://code.benco.io/icon-collection/azure-icons/SQL-Database.svg" /> 
+  <img align="center" alt="Yo-adb" height="30" width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.brighttalk.com%2Fwp-content%2Fuploads%2F2019%2F07%2FDatabricks-logo-1-300x300.png&f=1&nofb=1&ipt=41430d010aa4e7fb79004158d25be11a30704ff6bc4f05848e9996bb1a81f585&ipo=images" /> 
   <img align="center" alt="Yo-functions" height="30" width="30" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-functions-cli%2Fmaster%2Fsrc%2FAzure.Functions.Cli%2Fnpm%2Fassets%2Fazure-functions-logo-color-raster.png&f=1&nofb=1&ipt=7d8c76b6052c56f7c01c564f0d5d680aabe2e2560fa46740fa69d1a58c7a313d&ipo=images" />
   <img align="center" alt="Yo-airflow" height="30" width="30" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fblog.adnansiddiqi.me%2Fwp-content%2Fuploads%2F2018%2F09%2Fairflow_logo.png&f=1&nofb=1&ipt=091d8356b0d80d45060e6c82dc2e4085847c0b407c40b3af56a13f81f7ab79ba&ipo=images"  />
-  <img align="center" alt="Yo-docker" height="40" width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands%2F512%2F97_Docker_logo_logos-512.png&f=1&nofb=1&ipt=bdfe3f838ee4dba34981884925805e4e3167ede889c78f1646a75e5876c82375&ipo=images"/>
+  <img align="center" alt="Yo-docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          
 </div>
   
   <div align="right">

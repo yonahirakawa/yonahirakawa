@@ -30,8 +30,14 @@
   <a href="https://www.credly.com/badges/53f82b80-64ff-4ccb-881b-6338a475c1ea/public_url">
     <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" height="120" width="120">
   </a>
+  <a href="https://www.credly.com/badges/53f82b80-64ff-4ccb-881b-6338a475c1ea/public_url">
+    <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" height="120" width="120">
+  </a>
+  <a href="https://credentials.databricks.com/8019f663-a966-41f4-bfd2-e3325e073015">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61647945" height="135" width="135">
+  </a>
   <a href="https://credentials.databricks.com/3c7e2c30-f448-4a38-808c-6d4b34af5b5a">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57949421" height="130" width="130">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57949421" height="135" width="135" margin-top="100px">
   </a>
 </div>
   

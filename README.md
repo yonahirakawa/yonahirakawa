@@ -36,7 +36,7 @@
   <a href="https://credentials.databricks.com/8019f663-a966-41f4-bfd2-e3325e073015">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61647945" height="135" width="135">
   </a>
-  <a href="https://credentials.databricks.com/3c7e2c30-f448-4a38-808c-6d4b34af5b5a">
+  <a href="https://credentials.databricks.com/2846357a-4d58-4988-9424-77bec1559130">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57949421" height="135" width="135" margin-top="100px">
   </a>
 </div>

@@ -33,6 +33,9 @@
   <a href="https://www.credly.com/badges/53f82b80-64ff-4ccb-881b-6338a475c1ea/public_url">
     <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" height="120" width="120">
   </a>
+  <a href="https://www.credly.com/badges/c4380f2b-fa83-4b51-b7ee-f406af1c7efa/public_url">
+    <img src="https://images.credly.com/size/340x340/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" height="120" width="120">
+  </a>
   <a href="https://credentials.databricks.com/8019f663-a966-41f4-bfd2-e3325e073015">
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/61647945" height="135" width="135">
   </a>
